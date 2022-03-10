@@ -45,3 +45,36 @@
     border-style: none none solid;
     padding: 0;
   }
+  
+@media (max-width: 767px) {
+  .u-section-1 {
+   background-position: 87.54% 0%;
+ }
+
+ .u-section-1 .u-sheet-1 {
+   min-height: 622px;
+ }
+
+ .u-section-1 .u-text-1 {
+   font-size: 2.75rem;
+   margin-right: 0;
+ }
+
+ .u-section-1 .u-text-2 {
+   margin-right: 0;
+ }
+
+ .u-section-1 .u-text-3 {
+   margin-right: 0;
+ }
+}
+
+@media (max-width: 575px) {
+ .u-section-1 .u-sheet-1 {
+   min-height: 392px;
+ }
+
+ .u-section-1 .u-text-1 {
+   font-size: 2.25rem;
+ }
+}
